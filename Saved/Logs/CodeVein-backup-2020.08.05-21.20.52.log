@@ -1,0 +1,154 @@
+﻿[2020.08.05-14.17.34:865][  0]Log file open, 08/05/20 21:17:34
+[2020.08.05-14.17.34:865][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/sdfdsfsd~mods/NudeModNippleUpdateBarefoot.pak:3
+[2020.08.05-14.17.34:865][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk1-WindowsNoEditor.pak:3
+[2020.08.05-14.17.34:865][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk0-WindowsNoEditor.pak:3
+[2020.08.05-14.17.34:865][  0]LogWindows: Warning: Steam Language:en-US
+[2020.08.05-14.17.34:865][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.08.05-14.17.34:865][  0]LogMemory: Process Physical Memory: 730.70 MB used, 730.71 MB peak
+[2020.08.05-14.17.34:865][  0]LogMemory: Process Virtual Memory: 511.89 MB used, 586.35 MB peak
+[2020.08.05-14.17.34:865][  0]LogMemory: Physical Memory: 4945.64 MB used,  3188.70 MB free, 8134.34 MB total
+[2020.08.05-14.17.34:865][  0]LogMemory: Virtual Memory: 5280.45 MB used,  3188.70 MB free, 134217728.00 MB total
+[2020.08.05-14.17.36:748][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredDX11Feature):
+    Localization Resource: (D:/Games/Code Vein/CodeVein/Content/Localization/Game/en/Game.locres) Source String Hash: (-1358149466) Localized String: (Graphics card drivers either have not been installed or are out of date.)
+    Localization Resource: (D:/Games/Code Vein/Engine/Content/Localization/Engine/en/Engine.locres) Source String Hash: (-234599921) Localized String: (DX11 feature level 10.0 is required to run the engine.)
+[2020.08.05-14.17.45:920][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__CheckPointBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.45:920][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.46:571][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ItemChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.46:703][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__LightGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.47:308][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__SluiceGateBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.47:325][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__TideGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.17.52:673][  0]LogInit: Warning: Engine Branch: trunk
+[2020.08.05-14.17.52:673][  0]LogInit: Warning: Engine Revision: r19879
+[2020.08.05-14.17.52:673][  0]LogInit: Warning: Project Branch: master_101_steam
+[2020.08.05-14.17.52:673][  0]LogInit: Warning: Project Revision: r86038
+[2020.08.05-14.17.52:696][  0]LogUObjectAllocator: Warning: 10184848 Exceeds size of permanent object pool 8283072, please tune SizeOfPermanentObjectPool.
+[2020.08.05-14.18.07:204][  0]LogGameProgress: Warning: Group DungeonKey に空白のシンボルがあります
+[2020.08.05-14.18.08:237][  0]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.18.21:437][  0]LogOnline: Warning: STEAM: No game present to join for session (GameSession)
+[2020.08.05-14.18.22:024][  0]r.DefaultFeature.AntiAliasing = "0"
+[2020.08.05-14.18.22:024][  0]r.AmbientOcclusionRadiusScale = "1"
+[2020.08.05-14.18.22:024][  0]r.DefaultFeature.MotionBlur = "1"
+[2020.08.05-14.18.22:025][  0]r.Tonemapper.Quality = "5"
+[2020.08.05-14.18.22:025][  0]r.MaterialQualityLevel = "1"
+[2020.08.05-14.18.22:041][  0]r.DepthOfFieldQuality = "4"
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id01'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id03'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id04'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id44'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id05'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id06'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id07'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id08'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id09'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id10'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id11'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id12'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id13'
+[2020.08.05-14.18.22:043][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id14'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id15'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id16'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id38'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id17'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id18'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id19'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id20'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id21'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id22'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id23'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id24'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id25'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id26'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id27'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id28'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id29'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id47'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id30'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id32'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id33'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id34'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id35'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id36'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id37'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id39'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id40'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id41'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id42'
+[2020.08.05-14.18.22:044][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id43'
+[2020.08.05-14.18.22:820][  1]LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: Player [0x110000100000666] has no stats entries
+[2020.08.05-14.18.22:820][  1]LogOnline: Warning: Async task 'FOnlineAsyncTaskSteamGetAchievements bWasSuccessful: 0 UserId: Player [0x110000100000666]' failed in 0.725404 seconds
+[2020.08.05-14.18.23:388][  1]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id01'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id03'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id04'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id44'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id05'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id06'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id07'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id08'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id09'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id10'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id11'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id12'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id13'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id14'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id15'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id16'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id38'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id17'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id18'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id19'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id20'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id21'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id22'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id23'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id24'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id25'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id26'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id27'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id28'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id29'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id47'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id30'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id32'
+[2020.08.05-14.18.23:590][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id33'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id34'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id35'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id36'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id37'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id39'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id40'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id41'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id42'
+[2020.08.05-14.18.23:591][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id43'
+[2020.08.05-14.18.58:801][972]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.18.58:802][972]LogSlateStyle: Warning: Unable to find Slate Widget Style 'MenuSpecialAction2'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.02:710][206]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:477][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:478][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'MenuReset'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:479][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Left'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:479][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:480][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:480][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Right'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:480][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.05:480][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.29:006][718]r.DefaultFeature.AntiAliasing = "0"
+[2020.08.05-14.19.29:006][718]r.AmbientOcclusionRadiusScale = "1"
+[2020.08.05-14.19.29:006][718]r.DefaultFeature.MotionBlur = "1"
+[2020.08.05-14.19.29:007][718]r.Tonemapper.Quality = "5"
+[2020.08.05-14.19.29:007][718]r.MaterialQualityLevel = "1"
+[2020.08.05-14.19.29:007][718]r.DepthOfFieldQuality = "4"
+[2020.08.05-14.19.35:181][ 66]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:897][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:898][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'MenuReset'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Left'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Right'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.35:899][108]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.19.39:691][334]r.DefaultFeature.AntiAliasing = "0"
+[2020.08.05-14.19.39:692][334]r.AmbientOcclusionRadiusScale = "1"
+[2020.08.05-14.19.39:692][334]r.DefaultFeature.MotionBlur = "1"
+[2020.08.05-14.19.39:692][334]r.Tonemapper.Quality = "5"
+[2020.08.05-14.19.39:693][334]r.MaterialQualityLevel = "1"
+[2020.08.05-14.19.39:693][334]r.DepthOfFieldQuality = "4"
