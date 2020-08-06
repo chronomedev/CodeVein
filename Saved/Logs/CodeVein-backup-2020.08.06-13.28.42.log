@@ -1,0 +1,225 @@
+﻿[2020.08.05-14.43.54:825][  0]Log file open, 08/05/20 21:43:54
+[2020.08.05-14.43.54:825][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk1-WindowsNoEditor.pak:3
+[2020.08.05-14.43.54:825][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk0-WindowsNoEditor.pak:3
+[2020.08.05-14.43.54:825][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/asdas~mods/NudeModNippleUpdateBarefoot.pak:3
+[2020.08.05-14.43.54:825][  0]LogWindows: Warning: Steam Language:en-US
+[2020.08.05-14.43.54:825][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.08.05-14.43.54:825][  0]LogMemory: Process Physical Memory: 729.72 MB used, 729.72 MB peak
+[2020.08.05-14.43.54:825][  0]LogMemory: Process Virtual Memory: 508.52 MB used, 586.30 MB peak
+[2020.08.05-14.43.54:825][  0]LogMemory: Physical Memory: 5090.66 MB used,  3015.19 MB free, 8105.84 MB total
+[2020.08.05-14.43.54:825][  0]LogMemory: Virtual Memory: 5241.04 MB used,  3015.19 MB free, 134217728.00 MB total
+[2020.08.05-14.43.59:170][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredDX11Feature):
+    Localization Resource: (D:/Software/Code Vein/CodeVein/Content/Localization/Game/en/Game.locres) Source String Hash: (-1358149466) Localized String: (Graphics card drivers either have not been installed or are out of date.)
+    Localization Resource: (D:/Software/Code Vein/Engine/Content/Localization/Engine/en/Engine.locres) Source String Hash: (-234599921) Localized String: (DX11 feature level 10.0 is required to run the engine.)
+[2020.08.05-14.44.17:552][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__CheckPointBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.17:552][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.19:053][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ItemChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.19:368][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__LightGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.21:155][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__SluiceGateBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.21:167][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__TideGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.44.38:135][  0]LogInit: Warning: Engine Branch: trunk
+[2020.08.05-14.44.38:135][  0]LogInit: Warning: Engine Revision: r19879
+[2020.08.05-14.44.38:135][  0]LogInit: Warning: Project Branch: master_101_steam
+[2020.08.05-14.44.38:135][  0]LogInit: Warning: Project Revision: r86038
+[2020.08.05-14.44.38:164][  0]LogUObjectAllocator: Warning: 10184848 Exceeds size of permanent object pool 8283072, please tune SizeOfPermanentObjectPool.
+[2020.08.05-14.45.05:466][  0]LogGameProgress: Warning: Group DungeonKey に空白のシンボルがあります
+[2020.08.05-14.45.08:305][  0]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.08.05-14.45.38:797][  0]LogOnline: Warning: STEAM: No game present to join for session (GameSession)
+[2020.08.05-14.45.40:266][  0]r.DefaultFeature.AntiAliasing = "0"
+[2020.08.05-14.45.40:267][  0]r.AmbientOcclusionRadiusScale = "1"
+[2020.08.05-14.45.40:268][  0]r.DefaultFeature.MotionBlur = "1"
+[2020.08.05-14.45.40:268][  0]r.Tonemapper.Quality = "5"
+[2020.08.05-14.45.40:268][  0]r.MaterialQualityLevel = "1"
+[2020.08.05-14.45.40:269][  0]r.DepthOfFieldQuality = "4"
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id01'
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id03'
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id04'
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id44'
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id05'
+[2020.08.05-14.45.40:296][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id06'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id07'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id08'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id09'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id10'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id11'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id12'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id13'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id14'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id15'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id16'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id38'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id17'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id18'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id19'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id20'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id21'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id22'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id23'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id24'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id25'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id26'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id27'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id28'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id29'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id47'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id30'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id32'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id33'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id34'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id35'
+[2020.08.05-14.45.40:297][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id36'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id37'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id39'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id40'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id41'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id42'
+[2020.08.05-14.45.40:298][  0]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id43'
+[2020.08.05-14.45.42:534][  1]LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: Player [0x110000100000666] has no stats entries
+[2020.08.05-14.45.42:534][  1]LogOnline: Warning: Async task 'FOnlineAsyncTaskSteamGetAchievements bWasSuccessful: 0 UserId: Player [0x110000100000666]' failed in 2.188497 seconds
+[2020.08.05-14.45.44:661][  1]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.08.05-14.45.45:957][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id01'
+[2020.08.05-14.45.45:957][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id03'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id04'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id44'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id05'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id06'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id07'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id08'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id09'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id10'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id11'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id12'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id13'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id14'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id15'
+[2020.08.05-14.45.45:958][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id16'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id38'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id17'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id18'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id19'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id20'
+[2020.08.05-14.45.45:959][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id21'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id22'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id23'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id24'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id25'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id26'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id27'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id28'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id29'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id47'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id30'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id32'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id33'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id34'
+[2020.08.05-14.45.45:960][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id35'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id36'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id37'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id39'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id40'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id41'
+[2020.08.05-14.45.45:961][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id42'
+[2020.08.05-14.45.45:962][  3]LogOnline: Warning: STEAM: GetAchievementAndUnlockTime() failed for achievement 'Id43'
+[2020.08.05-14.46.35:333][ 89]LogStreaming: Warning: Took 165.92ms to ProcessLoadedPackages
+[2020.08.05-14.46.35:684][110]LogTemp: Warning: GetStreamPosition:no previous position found. Assume it is new sound
+[2020.08.05-14.47.19:901][779]LogTemp: Warning: GetStreamPosition:no previous position found. Assume it is new sound
+[2020.08.05-14.48.03:221][295]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:753][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Cancel'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:754][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'MenuReset'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:755][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Left'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:755][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:755][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:756][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SwitchTab_Right'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:756][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.48.06:756][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'platform'. Using FInlineTextImageStyle defaults instead.
+[2020.08.05-14.50.53:509][388]r.DefaultFeature.AntiAliasing = "0"
+[2020.08.05-14.50.53:510][388]r.AmbientOcclusionRadiusScale = "0"
+[2020.08.05-14.50.53:511][388]r.DefaultFeature.MotionBlur = "0"
+[2020.08.05-14.50.53:511][388]r.Tonemapper.Quality = "0"
+[2020.08.05-14.50.53:511][388]r.MaterialQualityLevel = "0"
+[2020.08.05-14.50.53:588][388]r.DepthOfFieldQuality = "0"
+[2020.08.05-15.27.48:843][952]LogOnline: Warning: STEAM: No game present to leave for session (GameSession)
+[2020.08.05-15.27.50:864][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.Default__AppLevelStreamingVolume) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:888][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.Default__AvatarCustomizeUIComponent) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:889][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.Default__AvatarCustomizeUIComponent) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:893][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:893][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:894][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.Default__EffectDataTable_Field) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:895][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:897][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:897][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:899][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:901][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.50:901][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:462][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_Base01) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_Base02) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_Base03) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_Ex2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_Ex3) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_MilCamp) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed09) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed10) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed11) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed13) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed14) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed16) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:557][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed17) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed20) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed22) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed23) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed24) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_PDFixed25) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St01) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St01_St13) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St01_St14) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St02) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St02_St05) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St04) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St04_St05_Halfway) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St04_St05a) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St04_St05b) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St04_Start) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_1) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_3) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:558][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St02) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St04) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St06) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St07_Halfway) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St07a) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St05_St07b) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St06) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St06_St05) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St07) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St07_St05) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St07_St10) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St09_1) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St09_2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St09_3) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St09_St12) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St09_St12_Halfway) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St10_1) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St10_2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:559][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St10_3) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St10_St07) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St10_St11) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St11) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St11_St10) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St12) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St12_St09a) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St12_St09b) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St13) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St13_St01) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St14) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St14_2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St14_3) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St14_St01) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St14_St15) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St15) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St15_St14) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St15_St14_2) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St17) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St18) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.27.51:560][953]LogScriptCore: Warning: Script Msg: No world was found for object (None.None:None.LSV_St19) passed in to UEngine::GetWorldFromContextObject().
+[2020.08.05-15.28.00:513][953]Log file closed, 08/05/20 22:28:00
