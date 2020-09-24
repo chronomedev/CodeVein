@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<ProjectRevision>trunk-r19879-master_101_steam-r86038</ProjectRevision>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-246F38FD421B8543C45DA7B6507017E4_0000</CrashGUID>
+		<ProcessId>11540</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>254</SecondsSinceStart>
+		<GameName>UE4-CodeVein</GameName>
+		<ExecutableName>CodeVein-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.18.3-0+Shift-310DEV</EngineVersion>
+		<CommandLine>CodeVein</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>Shift-310DEV-CL-0</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>User</UserName>
+		<BaseDir>D:/Games/Code Vein/CodeVein/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Games/Code Vein/</RootDir>
+		<MachineId>A9075AA24A2EB5EE22DDC39B08B56AF7</MachineId>
+		<LoginId>a9075aa24a2eb5ee22ddc39b08b56af7</LoginId>
+		<EpicAccountId>6c606c02fcb14f42b37429a7fdcaf697</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<ErrorMessage>Ensure condition failed: hit_result != nullptr [File:C:\jenkins\gez_pkg6f\gezgame\Source\Extensions\Character\BulletBase.cpp] [Line: 2747]</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Radeon RX 570 Series</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>8529469440</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>2194141184</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140727715016704</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>2756763648</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>2825641984</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>4401147904</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>4401164288</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>637364771265340000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>

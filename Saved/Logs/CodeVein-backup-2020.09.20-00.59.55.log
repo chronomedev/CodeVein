@@ -1,0 +1,26 @@
+﻿[2020.09.19-17.58.00:527][  0]Log file open, 09/20/20 00:58:00
+[2020.09.19-17.58.00:527][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/sdfdsfsd~mods/NudeModNippleUpdateBarefoot.pak:3
+[2020.09.19-17.58.00:527][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk1-WindowsNoEditor.pak:3
+[2020.09.19-17.58.00:527][  0]LogPakFile: Warning: Mount:../../../CodeVein/Content/Paks/pakchunk0-WindowsNoEditor.pak:3
+[2020.09.19-17.58.00:527][  0]LogWindows: Warning: Steam Language:en-US
+[2020.09.19-17.58.00:527][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.09.19-17.58.00:527][  0]LogMemory: Process Physical Memory: 731.32 MB used, 731.32 MB peak
+[2020.09.19-17.58.00:527][  0]LogMemory: Process Virtual Memory: 511.84 MB used, 586.34 MB peak
+[2020.09.19-17.58.00:527][  0]LogMemory: Physical Memory: 4742.77 MB used,  3391.57 MB free, 8134.34 MB total
+[2020.09.19-17.58.00:527][  0]LogMemory: Virtual Memory: 5280.39 MB used,  3391.57 MB free, 134217728.00 MB total
+[2020.09.19-17.58.02:268][  0]LogTextLocalizationResource: Warning: Loaded localization resources contain conflicting entries for (Namespace:WindowsDynamicRHI, Key:RequiredDX11Feature):
+    Localization Resource: (D:/Games/Code Vein/CodeVein/Content/Localization/Game/en/Game.locres) Source String Hash: (-1358149466) Localized String: (Graphics card drivers either have not been installed or are out of date.)
+    Localization Resource: (D:/Games/Code Vein/Engine/Content/Localization/Engine/en/Engine.locres) Source String Hash: (-234599921) Localized String: (DX11 feature level 10.0 is required to run the engine.)
+[2020.09.19-17.58.11:872][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__CheckPointBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.11:872][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.12:541][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__ItemChestBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.12:713][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__LightGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.13:341][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__SluiceGateBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.13:342][  0]LogScriptCore: Warning: Script Msg: No world was found for object (/Script/Extensions.Default__TideGimmickBase) passed in to UEngine::GetWorldFromContextObject().
+[2020.09.19-17.58.19:292][  0]LogInit: Warning: Engine Branch: trunk
+[2020.09.19-17.58.19:292][  0]LogInit: Warning: Engine Revision: r19879
+[2020.09.19-17.58.19:292][  0]LogInit: Warning: Project Branch: master_101_steam
+[2020.09.19-17.58.19:292][  0]LogInit: Warning: Project Revision: r86038
+[2020.09.19-17.58.19:298][  0]LogUObjectAllocator: Warning: 10184848 Exceeds size of permanent object pool 8283072, please tune SizeOfPermanentObjectPool.
+[2020.09.19-17.58.33:198][  0]LogGameProgress: Warning: Group DungeonKey に空白のシンボルがあります
+[2020.09.19-17.58.34:161][  0]LogScriptCore: Error: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
